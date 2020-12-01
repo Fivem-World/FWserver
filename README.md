@@ -1,0 +1,2 @@
+# FWserver
+server vrp FiveM
